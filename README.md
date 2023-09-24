@@ -1,5 +1,7 @@
 # RESTC-Source-code
 Source code of ACM TOIS accepted paper "Spatio-Temporal Contrastive Learning Enhanced GNNs for Session-based Recommendation"
+Data samples ![image info](./fig1.jpg)
+Framework Pipeline ![image info](./fig2.jpg)
 
 # Concise Runing Steps:
 - Preprocess the datasets following the format of https://github.com/CCIIPLab/GCE-GNN.
